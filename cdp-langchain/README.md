@@ -102,6 +102,10 @@ The toolkit provides the following tools:
 11. **wow_buy_token** - Buy Zora Wow ERC20 memecoin with ETH
 12. **wow_sell_token** - Sell Zora Wow ERC20 memecoin for ETH
 13. **wrap_eth** - Wrap ETH to WETH
+14. **pyth_fetch_price_feed_id** Fetch the price feed ID for a given token symbol from Pyth Network
+15. **pyth_fetch_price** Fetch the price of a given price feed from Pyth Network
+16. **get_balance_nft** Get balance for specific NFTs (ERC-721)
+17. **transfer_nft** Transfer an NFT (ERC-721)
 
 ### Using with an Agent
 

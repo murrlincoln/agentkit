@@ -1,4 +1,9 @@
 <div align="center">
+  <p>
+    <a href="https://docs.cdp.coinbase.com/agentkit/docs/welcome">
+      <img src="./agentkit_banner.png"/>
+    </a>
+  </p>
   <h1 style="font-size: 3em; margin-bottom: 20px;">
     AgentKit
   </h1>
@@ -22,7 +27,7 @@
 - **Python and Node.js Support**
 - **LangChain integration**: Seamless integration with [LangChain](https://python.langchain.com/docs/introduction/) for easy agentic workflows. More frameworks coming soon!
 - **Twitter integration**: Seamless integration of Langchain with [Twitter](https://developer.twitter.com/en/docs/twitter-api) for easy agentic workflows.
-- **Support for various on-chain actions**:
+- **Support for various onchain actions**:
 
   - Faucet for testnet funds
   - Getting wallet details and balances
